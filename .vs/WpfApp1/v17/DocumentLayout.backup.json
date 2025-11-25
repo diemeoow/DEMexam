@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\tovarcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\convertors\\discounttobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\convertors\\discounttobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\convertors\\inttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\convertors\\inttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\tovarcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\wpfapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\to-do-cloudsave\\wpfapp1\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Migrations\\20251027082418_Images-fix2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Migrations\\20251027082243_Images-fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Migrations\\20251027082001_Images-add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfApp1\\Migrations\\20251027054837_Initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TovarCard.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\TovarCard.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\TovarCard.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\TovarCard.xaml",
+              "RelativeToolTip": "WpfApp1\\TovarCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T13:26:07.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\AuthService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\AuthService.cs",
+              "RelativeToolTip": "WpfApp1\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T05:41:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Data\\TestContext.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Data\\TestContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Data\\TestContext.cs",
+              "RelativeToolTip": "WpfApp1\\Data\\TestContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:15:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Models\\Product.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:49:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T08:04:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TovarCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\TovarCard.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TovarCard.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\TovarCard.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\TovarCard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:30:06.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountToBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Convertors\\DiscountToBrushConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Convertors\\DiscountToBrushConverter.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Convertors\\DiscountToBrushConverter.cs",
+              "RelativeToolTip": "WpfApp1\\Convertors\\DiscountToBrushConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:15:25.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
+              "RelativeToolTip": "WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:15:53.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WpfApp1",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T07:32:54.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\ProductForm.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\ProductForm.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ProductForm.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:57:16.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwCIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:03:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\ProductForm.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductForm.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\ProductForm.xaml",
+              "RelativeToolTip": "WpfApp1\\ProductForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T09:54:17.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WpfApp1\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Properties\\Resources.resx",
+              "RelativeToolTip": "WpfApp1\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-14T07:36:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Models\\Supplier.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T08:23:49.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T06:49:39.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WpfApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T06:32:41.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251027082001_Images-add.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Migrations\\20251027082001_Images-add.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
+              "RelativeToolTip": "WpfApp1\\Migrations\\20251027082001_Images-add.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:20:01.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251027054837_Initial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
+              "RelativeToolTip": "WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:48:37.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Models\\User.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:15:44.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251027082243_Images-fix.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
+              "RelativeToolTip": "WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:22:43.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251027082418_Images-fix2.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
+              "RelativeToolTip": "WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:24:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251027083014_Inicial-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
+              "RelativeToolTip": "WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:30:14.127Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
