@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Data;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -22,10 +23,10 @@ namespace WpfApp1
         {
             InitializeComponent();
             authService = new AuthService();
-            
+
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click_Login(object sender, RoutedEventArgs e)
         {
             Role role = authService.TryAuth(LoginTextBox.Text, PasswordTextBox.Password);
             if (role != null)
@@ -38,6 +39,13 @@ namespace WpfApp1
             {
                 MessageBox.Show("Неверный логин или пароль", "Ошибка входа", MessageBoxButton.OK, MessageBoxImage.Error);
             }
+        }
+        private void Button_Click_Guest(object sender, RoutedEventArgs e)
+        {
+            Role role = new Role();
+            var mainWindow = new ProductForm(role);
+            mainWindow.Show();
+            Application.Current.Windows.OfType<LoginWindow>().First()?.Close();
         }
     }
 }

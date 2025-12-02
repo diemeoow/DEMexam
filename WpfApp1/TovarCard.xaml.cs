@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WpfApp1.Models;
 
 namespace WpfApp1
 {
@@ -23,6 +24,15 @@ namespace WpfApp1
         public TovarCard()
         {
             InitializeComponent();
+        }
+        private void ProductCard_MouseLeftButtonUp(object sender, MouseButtonEventArgs e)
+        {
+            // Получаем карточку (Border) на которую кликнули
+            if (sender is Border card && card.DataContext is Product product)
+            {
+                var tovarWindow = new TovarWindow(product);
+                tovarWindow.ShowDialog();
+            }
         }
     }
 }

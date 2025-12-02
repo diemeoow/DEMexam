@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Student\Desktop\TO-DO-CloudSave\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\
+C:\Users\Kyaro\Documents\DEMexam\WpfApp1\obj\Debug\net9.0-windows\
 WpfApp1
 none
 false
-TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-C:\Users\Student\Desktop\TO-DO-CloudSave\WpfApp1\WpfApp1\App.xaml
-31076787911
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\Kyaro\Documents\DEMexam\WpfApp1\App.xaml
+4-896228502
 1-1119199918
-22-2004725309
-229858096894
-LoginWindow.xaml;ProductForm.xaml;TovarCard.xaml;
+22-768596847
+229-1313928087
+LoginWindow.xaml;ProductForm.xaml;TovarCard.xaml;TovarWindow.xaml;
 
 False
 

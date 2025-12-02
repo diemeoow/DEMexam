@@ -1,0 +1,170 @@
+﻿<Window x:Class="WpfApp1.TovarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="TovarWindow" Height="700" Width="500">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- ID товара -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="ID товара:" Width="120" VerticalAlignment="Center"/>
+            <TextBlock x:Name="ProductIdText" 
+                       Text="" 
+                       FontWeight="Bold" 
+                       VerticalAlignment="Center"
+                       Foreground="Gray"/>
+        </StackPanel>
+
+        <!-- Название -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Название:*" Width="120" VerticalAlignment="Center"/>
+            <TextBox x:Name="NameTextBox" 
+                     Width="300" 
+                     MaxLength="100"
+                     FontSize="14"/>
+        </StackPanel>
+
+        <!-- Описание -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Описание:" Width="120" VerticalAlignment="Top"/>
+            <TextBox x:Name="DescriptionTextBox" 
+                     Width="300" 
+                     Height="60" 
+                     TextWrapping="Wrap" 
+                     AcceptsReturn="True"
+                     FontSize="14"/>
+        </StackPanel>
+
+        <!-- Категория -->
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Категория:*" Width="120" VerticalAlignment="Center"/>
+            <ComboBox x:Name="CategoryComboBox" 
+                      Width="300"
+                      DisplayMemberPath="Name"
+                      FontSize="14"/>
+        </StackPanel>
+
+        <!-- Производитель -->
+        <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Производитель:*" Width="120" VerticalAlignment="Center"/>
+            <ComboBox x:Name="ManufacturerComboBox" 
+                      Width="300"
+                      DisplayMemberPath="Name"
+                      FontSize="14"/>
+        </StackPanel>
+
+        <!-- Поставщик -->
+        <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Поставщик:*" Width="120" VerticalAlignment="Center"/>
+            <ComboBox x:Name="SupplierComboBox" 
+                      Width="300"
+                      DisplayMemberPath="Name"
+                      FontSize="14"/>
+        </StackPanel>
+
+        <!-- Количество и цена -->
+        <StackPanel Grid.Row="6" Orientation="Horizontal" Margin="0,0,0,15">
+            <StackPanel>
+                <TextBlock Text="Количество:*" Margin="0,0,0,5"/>
+                <TextBox x:Name="QuantityTextBox" 
+                         Width="120"
+                         FontSize="14"/>
+            </StackPanel>
+
+            <StackPanel Margin="30,0,0,0">
+                <TextBlock Text="Цена:*" Margin="0,0,0,5"/>
+                <TextBox x:Name="PriceTextBox" 
+                         Width="120"
+                         FontSize="14"/>
+            </StackPanel>
+
+            <StackPanel Margin="30,0,0,0">
+                <TextBlock Text="Скидка:" Margin="0,0,0,5"/>
+                <TextBox x:Name="SaleTextBox" 
+             Width="120"
+             FontSize="14"/>
+            </StackPanel>
+            
+        </StackPanel>
+
+        <StackPanel Grid.Row="7" Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Единица измерения:*" Width="120" VerticalAlignment="Center"/>
+            <TextBox x:Name="UnitTextBox" 
+             Width="300" 
+             MaxLength="100"
+             FontSize="14"/>
+        </StackPanel>
+
+        <!-- Изображение -->
+        <StackPanel Grid.Row="8" Orientation="Horizontal" Margin="0,0,0,15">
+            <TextBlock Text="Изображение:" Width="120" VerticalAlignment="Top"/>
+            <StackPanel>
+                <Border BorderBrush="LightGray" 
+                        BorderThickness="1" 
+                        Background="WhiteSmoke"
+                        Width="300" 
+                        Height="200">
+                    <Image x:Name="ProductImage" 
+                           Stretch="Uniform"
+                           Source="Images/picture.png"/>
+                </Border>
+
+                <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                    <Button x:Name="LoadImageButton" 
+                            Content="Загрузить"
+                            Click="LoadImageButton_Click" 
+                            Width="90"
+                            Margin="0,0,10,0"/>
+
+                    <Button x:Name="ClearImageButton" 
+                            Content="Очистить"
+                            Click="ClearImageButton_Click"
+                            Width="90"/>
+
+                    <TextBlock x:Name="ImageSizeText" 
+                               Margin="10,0,0,0" 
+                               VerticalAlignment="Center" 
+                               Foreground="Gray"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+        <!-- Кнопки сохранения/отмены -->
+        <StackPanel Grid.Row="9" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Right">
+            
+            <Button x:Name="SaveButton" 
+                    Content="Сохранить" 
+                    Click="SaveButton_Click" 
+                    Width="100" 
+                    Height="35"
+                    Margin="0,0,10,0"
+                    FontSize="14"
+                    Background="#4CAF50"
+                    Foreground="White"/>
+
+            <Button x:Name="CancelButton" 
+                    Content="Отмена" 
+                    Click="CancelButton_Click" 
+                    Width="100"
+                    Height="35"
+                    FontSize="14"/>
+        </StackPanel>
+    </Grid>
+</Window>

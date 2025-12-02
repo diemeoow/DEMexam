@@ -8,5 +8,8 @@
     <Compile Update="TovarCard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="TovarWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
