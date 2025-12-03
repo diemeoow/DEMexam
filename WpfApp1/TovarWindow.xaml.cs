@@ -1,4 +1,5 @@
-﻿using Microsoft.Win32;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -85,10 +86,27 @@ namespace WpfApp1
         {
            
         }
+        private void DelButton_Click(object sender, RoutedEventArgs e)
+        {
+            using (var context = new TestContext())
+            {
+                if (context.OrderProducts.Any(op => op.ProductArticle == _product.Article))
+                {
+                    MessageBox.Show("Этот товар присутствует в заказах, его нельзя удалить");
+                }
+                else
+                {
+                    context.Products.Remove(_product);
+                    context.SaveChanges();
+                    Close();
+                }
+            }
+        }
         private void ClearImageButton_Click(object sender, RoutedEventArgs e)
         {
             ProductImage.Source = new BitmapImage(new Uri("pack://application:,,,/Images/picture.png"));
         }
+        
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
             _product.Name = NameTextBox.Text;

@@ -1,81 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kyaro\\Documents\\DEMexam\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\tovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\tovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\tovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\tovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\tovarcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\tovarcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\data\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\convertors\\inttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\productform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\tovarcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\tovarcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tovarcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\productform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\convertors\\inttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\convertors\\inttovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\wpfapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\wpfapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\wpfapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\kyaro\\documents\\demexam\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|c:\\users\\student\\desktop\\demexams\\demexam\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1115B777-1700-40CD-A80A-34377DE0A053}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -101,91 +109,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TovarWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\TovarWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\TovarWindow.xaml.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowF8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T12:17:03.491Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "WpfApp1",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\WpfApp1.csproj",
+              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\WpfApp1.csproj",
+              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-14T07:32:54.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TovarWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\TovarWindow.xaml",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarWindow.xaml",
-              "RelativeToolTip": "WpfApp1\\TovarWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-01T12:09:17.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductForm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\ProductForm.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\ProductForm.xaml.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\ProductForm.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\ProductForm.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T09:57:16.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductForm.xaml",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\ProductForm.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\ProductForm.xaml",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\ProductForm.xaml",
-              "RelativeToolTip": "WpfApp1\\ProductForm.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-11T09:54:17.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\Product.cs",
-              "RelativeToolTip": "WpfApp1\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T09:49:37.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwC4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T08:03:57.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Supplier.cs",
               "RelativeToolTip": "WpfApp1\\Models\\Supplier.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,22 +136,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WpfApp1",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\WpfApp1.csproj",
-              "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\WpfApp1.csproj",
-              "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-14T07:32:54.156Z"
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T08:03:57.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Product.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:49:37.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductForm.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\ProductForm.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductForm.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\ProductForm.xaml",
+              "RelativeToolTip": "WpfApp1\\ProductForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-11T09:54:17.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TovarWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TovarWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\TovarWindow.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAhwI8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T12:17:03.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\ProductForm.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ProductForm.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\ProductForm.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\ProductForm.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAnwG4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:57:16.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Data\\TestContext.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Data\\TestContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Data\\TestContext.cs",
+              "RelativeToolTip": "WpfApp1\\Data\\TestContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:15:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\OrderProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\OrderProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:37:10.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Order.cs",
+              "RelativeToolTip": "WpfApp1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T07:38:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TovarWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\TovarWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\TovarWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-01T12:09:17.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\LoginWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-24T08:04:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TovarCard.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarCard.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\TovarCard.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarCard.xaml",
+              "RelativeToolTip": "WpfApp1\\TovarCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-12T13:26:07.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TovarCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarCard.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TovarCard.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\TovarCard.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\TovarCard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:30:06.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Role.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\Role.cs",
               "RelativeToolTip": "WpfApp1\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,59 +295,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TovarCard.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarCard.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\TovarCard.xaml.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarCard.xaml.cs",
-              "RelativeToolTip": "WpfApp1\\TovarCard.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T13:30:06.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TovarCard.xaml",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarCard.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\TovarCard.xaml",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\TovarCard.xaml",
-              "RelativeToolTip": "WpfApp1\\TovarCard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-12T13:26:07.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\LoginWindow.xaml",
-              "RelativeToolTip": "WpfApp1\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-24T08:04:02.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TestContext.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Data\\TestContext.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\Data\\TestContext.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Data\\TestContext.cs",
-              "RelativeToolTip": "WpfApp1\\Data\\TestContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAwCAAAAAWAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T12:15:30.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\AuthService.cs",
               "RelativeDocumentMoniker": "WpfApp1\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\AuthService.cs",
               "RelativeToolTip": "WpfApp1\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,11 +307,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IntToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
               "RelativeToolTip": "WpfApp1\\Convertors\\IntToVisibilityConverter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,22 +319,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "WpfApp1\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Properties\\Resources.resx",
               "RelativeToolTip": "WpfApp1\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2025-11-14T07:36:57.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\App.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\App.xaml",
               "RelativeToolTip": "WpfApp1\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-31T06:49:39.692Z",
@@ -311,11 +342,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "WpfApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\WpfApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\WpfApp1.csproj",
               "RelativeDocumentMoniker": "WpfApp1\\WpfApp1.csproj",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\WpfApp1.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\WpfApp1.csproj",
               "RelativeToolTip": "WpfApp1\\WpfApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -323,33 +354,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20251027082001_Images-add.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
               "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
-              "RelativeToolTip": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
+              "RelativeToolTip": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082001_Images-add.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:20:01.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "20251027054837_Initial-migration.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
               "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
-              "RelativeToolTip": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
+              "RelativeToolTip": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027054837_Initial-migration.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T05:48:37.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\User.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Kyaro\\Documents\\DEMexam\\WpfApp1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\DemExams\\DEMexam\\WpfApp1\\Models\\User.cs",
               "RelativeToolTip": "WpfApp1\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -357,34 +388,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "20251027082243_Images-fix.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
               "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
-              "RelativeToolTip": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
+              "RelativeToolTip": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082243_Images-fix.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:22:43.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "20251027082418_Images-fix2.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
               "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
-              "RelativeToolTip": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
+              "RelativeToolTip": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027082418_Images-fix2.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:24:18.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20251027083014_Inicial-migration.cs",
               "DocumentMoniker": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
               "ToolTip": "C:\\Users\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
-              "RelativeToolTip": "..\\..\\..\\Student\\Desktop\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
+              "RelativeToolTip": "..\\..\\TO-DO-CloudSave\\WpfApp1\\WpfApp1\\Migrations\\20251027083014_Inicial-migration.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:30:14.127Z"
             }

@@ -149,6 +149,16 @@
                     Orientation="Horizontal" 
                     HorizontalAlignment="Right">
             
+            <Button x:Name="DeleteButton" 
+        Content="Удалить" 
+        Click="DelButton_Click" 
+        Width="100" 
+        Height="35"
+        Margin="0,0,10,0"
+        FontSize="14"
+        Background="red"
+        Foreground="White"/>
+            
             <Button x:Name="SaveButton" 
                     Content="Сохранить" 
                     Click="SaveButton_Click" 
